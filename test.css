@@ -1,0 +1,19 @@
+#google_search_bar {
+  width: 50%;
+  border: 1px solid grey;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#google_search_text {
+  border-style: none;
+  width: 80%;
+  margin-left: 5%;
+}
+
+#google_search_text:focus {
+  outline: none;
+}
+
+/*# sourceMappingURL=test.css.map */
